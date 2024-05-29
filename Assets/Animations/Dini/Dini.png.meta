@@ -1,0 +1,1095 @@
+fileFormatVersion: 2
+guid: ff1fa20492e60c94fbd7c2a3056c18c3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 44
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Dini_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 291bd008488debc4a85f508e9cd2d76e
+      internalID: 2018736933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_1
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b9812e7fefe3814fafce6a81d19af14
+      internalID: -2127439055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25edda247b00fe343be4c6a6bac7cdb4
+      internalID: 1980979177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_3
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dd249bfdb7621d43b96f5f9c2aa1a2b
+      internalID: 861534383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_4
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc63584b02e17374e841dc7be8336677
+      internalID: -1538587407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_5
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82050b8a37dd4e74fbfe8bc1fb940400
+      internalID: 1966070719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_6
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b8296db88985d4297fbceb4ea6af7d
+      internalID: 250987332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_7
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508198e1960de124e98e2c7fcb1517ed
+      internalID: -18156382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_8
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 193.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a573ba420d299d54bb6b54a067885f42
+      internalID: -468299621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f5af52b49130574f9d3b3bcd3e81b3f
+      internalID: -468805222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_10
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610bade50bdefe04fbf200fac5c4edbe
+      internalID: 436619657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_11
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1552b5f5c3245794683f40152c7a8df0
+      internalID: -1517435027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_12
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8546a3f5c5db9004fa7a4cc86526d319
+      internalID: 759908329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_13
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b9e5c03f718294483e3328408d16ca
+      internalID: -63497200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57816e6bb878a6d49be8b8198c020dd0
+      internalID: -1260183353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_15
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 788ec22d7852b9840938ef244de5a9fa
+      internalID: -55295144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff3e233cf7faa645b2397e054ae9d3a
+      internalID: 35391215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_17
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8979ff3e3ec73e46915fff8cc2a91ed
+      internalID: 518382366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64f34acdcc333dd479cac6e6a8c4afa0
+      internalID: 863092579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_19
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72a7b0262b0f41428b5248fd9e9d492
+      internalID: -894874848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce49187d0020d96429fb9f602e7d60b2
+      internalID: 1655888932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_21
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69d34ff8c9206d7458161dd15351e0cb
+      internalID: 1829785766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_22
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea31e20bc4de7f646bd8a084b47b2d7e
+      internalID: -1913969057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_23
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbf1211b31b99f439d74076e6550bc0
+      internalID: -1412029226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_24
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ac1a80fda9ad6d4a9eb8d7afbd25df9
+      internalID: -320967835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_25
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73ec9a55db3391841bb945605153a01b
+      internalID: 773472790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 97.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dc1d40b48637964db0e742c948f532c
+      internalID: -2001823574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aa94c1a2074f864d94918fac84f2e5f
+      internalID: 540968439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd02e5a13aa81741befe9788f2f3617
+      internalID: -1438690461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_29
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f3287cedda36b145a35c88804e40a1c
+      internalID: -1428300583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_30
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59bc7fa06fe99e44aa7c377b2f5f9ebf
+      internalID: -1664483281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_31
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 373672eed87ac7046ba0ccef4238482b
+      internalID: 769633136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_32
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dbfabfc22318f441a13aeac1f521abe
+      internalID: -929175356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_33
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58b159d51fcd0544f817d45958732ee1
+      internalID: 937813878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_34
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8970a58dd5aff6f4696c3850be4333e4
+      internalID: 1870988320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_35
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 49.6
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8655f8c304fcbe84b948342a374c0958
+      internalID: -1297751644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f169fc104e6ab424fb48abb4ca00b62d
+      internalID: -538182008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_37
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4a2895f74176dc4f9b0f7f94983f5f7
+      internalID: 1977964782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_38
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b65367c713ab543936d6bc05678d51
+      internalID: -589757142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_39
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1ca6724cc545cc4a8ab31dddbf12ac1
+      internalID: -84782664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_40
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0e9b5433d0f699448d57d9fc0ad4178
+      internalID: 587741060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_41
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8da19b03bbad524ca6088cd0369422a
+      internalID: -98688467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_42
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c982b1b5436344391d0b4c5c9c8b47
+      internalID: -1372207874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Dini_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 1.5999985
+        width: 32.11111
+        height: 48.4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d85bc0cb9b3424e8e0f5ea71639e0a
+      internalID: -1339181282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Dini_0: 2018736933
+      Dini_1: -2127439055
+      Dini_10: 436619657
+      Dini_11: -1517435027
+      Dini_12: 759908329
+      Dini_13: -63497200
+      Dini_14: -1260183353
+      Dini_15: -55295144
+      Dini_16: 35391215
+      Dini_17: 518382366
+      Dini_18: 863092579
+      Dini_19: -894874848
+      Dini_2: 1980979177
+      Dini_20: 1655888932
+      Dini_21: 1829785766
+      Dini_22: -1913969057
+      Dini_23: -1412029226
+      Dini_24: -320967835
+      Dini_25: 773472790
+      Dini_26: -2001823574
+      Dini_27: 540968439
+      Dini_28: -1438690461
+      Dini_29: -1428300583
+      Dini_3: 861534383
+      Dini_30: -1664483281
+      Dini_31: 769633136
+      Dini_32: -929175356
+      Dini_33: 937813878
+      Dini_34: 1870988320
+      Dini_35: -1297751644
+      Dini_36: -538182008
+      Dini_37: 1977964782
+      Dini_38: -589757142
+      Dini_39: -84782664
+      Dini_4: -1538587407
+      Dini_40: 587741060
+      Dini_41: -98688467
+      Dini_42: -1372207874
+      Dini_43: -1339181282
+      Dini_5: 1966070719
+      Dini_6: 250987332
+      Dini_7: -18156382
+      Dini_8: -468299621
+      Dini_9: -468805222
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
